@@ -36,3 +36,6 @@ Pros:
 - Good documentation
 - Modular
 - Highly configurable
+
+Rules and Alerts
+- Rules preconfigured trigger alerts
