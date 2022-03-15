@@ -1,0 +1,38 @@
+Tasks:
+1-3 (Bill of materials)
+1. SBOMs
+2. FBOMs
+3. HBOMs
+4. Security rules
+5. Detection
+6. Incident response
+7. Bug Patching
+8. System updates
+9. Passing audits
+10. Governance and risk
+
+Logging
+- Log Files encompass activities
+- System logs are a record for a specific system or application
+
+Linux - logs in /var/log
+
+EL(B)K stack as an example of a logging management system
+
+Logstash - Injests logs
+Elasticsearch - Database (no SQL DB)
+Beats such as Filebeat - Log shipping
+Kibana - Data visualization and exploration
+
+Cons:
+- Bulky
+- Spacehog
+- - $$$$$
+- Complex setup
+- Highly configurable
+
+Pros:
+- Open source*
+- Good documentation
+- Modular
+- Highly configurable
